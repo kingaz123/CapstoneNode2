@@ -75,13 +75,21 @@ Follow these steps to set up and run the project:
 8. Set Up Postman Environment Variable
 
 Before testing the API endpoints, set up a local environment in Postman:
+
 a. Click on the "Eye" icon in the top right corner of Postman.
+
 b. Click "Add" to create a new environment.
+
 c. Name your environment (e.g., "Local Development").
+
 d. Add a new variable:
+
 - Variable name: domain
+  
 - Value: http://localhost:8080/api
+  
 e. Click "Save" to save the environment.
+
 f. Select the newly created environment from the dropdown menu in the top right corner of Postman.
 
 9. Test API Endpoints
