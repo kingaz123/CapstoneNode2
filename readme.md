@@ -12,12 +12,6 @@ This project is a backend API for a cinema booking system, using Express.js and 
 
 ## Setup Instructions
 
-# Cinema Management System
-
-This project is a RESTful API for a cinema management system built with Node.js, Express, and Prisma.
-
-## Installation and Setup
-
 Follow these steps to set up and run the project:
 
 1. Clone this Repository
